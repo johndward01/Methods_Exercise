@@ -20,6 +20,8 @@ namespace Methods_Exercise_01_Answers
             // TODO: Call the IsPrime() method and write out the result to the console
             // TODO: Creatively display the information to the console window
 
+            //LDFJKLDJFLFJKLDJFKDLJFKLFJDLFJKLJfljkljd
+
         }
 
         // TODO: Create a public static method called AddSpaces() which creates 2 blank lines when called
