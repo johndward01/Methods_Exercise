@@ -6,11 +6,13 @@ namespace Methods_Exercise_01_Answers
     {
         static void Main(string[] args)
         {
+            // TODO: For each method call the AddSpaces() method to separate the answers!
+
             var userInput = String.Empty;
+
             // TODO: Call the PrintGreeting() method 
             PrintGreeting();
 
-            // TODO: For each method call call the AddSpaces() method to separate the answers
             AddSpaces();
 
             // TODO: Call the SayHello() method
@@ -24,9 +26,8 @@ namespace Methods_Exercise_01_Answers
             AddSpaces();
 
             // TODO: Call the Exponentiate() method and store the returned value in a variable called result
-            var result = Exponentiate();
-
             // TODO: Write result out to the console (display the result creatively)
+            var result = Exponentiate();
             Console.WriteLine($"The result is: {result}");
 
             AddSpaces();
@@ -111,8 +112,6 @@ namespace Methods_Exercise_01_Answers
             }
             return true;
         }
-
-
 
     }
 }
